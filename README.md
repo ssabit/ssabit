@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋, I'm Saad Ibna Omar Sabit  🧑🏻‍💻 </h1>
 
-<!--
-**ssabit/ssabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <br><img src="https://github.com/ssabit/ssabit/blob/master/developer.gif" width="450px"><br><br>
+  <samp>Full Stack Web Developer
+  </samp>
+  <br>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+ <a href="https://www.linkedin.com/in/sabit/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:sabit.cseuiu@gmail.com?subject=Hello%20Sabit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4> Tools & Technologies</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-     %231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap%20-553C7B.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;<br>
+  <img src="https://img.shields.io/badge/PHP%20-553C7B.svg?&style=for-the-badge&logo=PHP&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ajax%20-00758F.svg?&style=for-the-badge&logo=Ajax&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Laravel%20-%23e34f26.svg?&style=for-the-badge&logo=Laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;<br>
+  <img src="https://img.shields.io/badge/MySQL%20-00758F.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;&nbsp;<br>
+  <img src="https://img.shields.io/badge/Git%20-black.svg?&style=for-the-badge&logo=Git&logoColor=red&link=https://github.com/ssabit" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
