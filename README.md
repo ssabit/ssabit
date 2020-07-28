@@ -27,7 +27,7 @@
 <p>
 <p>
    <!--<img src="https://visitor-badge.laobi.icu/badge?page_id=ssabit" alt="visitor badge"/>-->
-   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ssabit&repo=github-visitors-badge&countColorcountColor&countColor=blue" alt="visitor badge"/>
+   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ssabit&repo=github-visitors-badge&countColorcountColor&countColor=%231572B6" alt="visitor badge"/>
 </p>
 
 
