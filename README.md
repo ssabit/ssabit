@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><img src="https://github.com/ssabit/ssabit/blob/master/developer.gif" width="450px"><br><br>
-  <samp>Full Stack Web Developer
+  <samp>Software Engineer
   </samp>
   <br>
 </p>
