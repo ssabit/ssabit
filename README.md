@@ -16,18 +16,21 @@
 <h4> Tools & Technologies</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-     %231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap%20-553C7B.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;<br>
-  <img src="https://img.shields.io/badge/PHP%20-553C7B.svg?&style=for-the-badge&logo=PHP&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ajax%20-00758F.svg?&style=for-the-badge&logo=Ajax&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Laravel%20-%23e34f26.svg?&style=for-the-badge&logo=Laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java%20-070c18.svg?&style=for-the-badge&logo=Java&logoColor=red" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python%20-FFCE3D.svg?&style=for-the-badge&logo=Python&logoColor=black" />&nbsp;&nbsp;&nbsp;<br>
-  <img src="https://img.shields.io/badge/MySQL%20-00758F.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;&nbsp;<br>
-  <img src="https://img.shields.io/badge/Git%20-black.svg?&style=for-the-badge&logo=Git&logoColor=red&link=https://github.com/ssabit" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/github%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;<img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ajax%20-00758F.svg?&style=for-the-badge&logo=Ajax&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap%20-553C7B.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;<br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java%20-070c18.svg?&style=for-the-badge&logo=Java&logoColor=red" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />&nbsp;&nbsp;&nbsp;<br>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;<br>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/ssabit" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;&nbsp;&nbsp;<br>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Laragon-605092?style=for-the-badge&logo=laragon&logoColor=blue" />&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 <hr>  
 <p>
 <p>
    <!--<img src="https://visitor-badge.laobi.icu/badge?page_id=ssabit" alt="visitor badge"/>-->
-   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ssabit&repo=github-visitors-badge&countColorcountColor&countColor=%231572B6" alt="visitor badge"/>
+   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ssabit&repo=github-visitors-badge&countColorcountColor&countColor=%231572B6" alt="visitor badge"/>&nbsp;&nbsp;&nbsp
 </p>
 
 
